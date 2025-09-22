@@ -1,3 +1,3 @@
-# MY Third PRoject
+# MY Third Project
 
 Spotify_Clone Using HTML & CSS
